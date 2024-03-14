@@ -1,10 +1,11 @@
 # Hi there, I'm Sabeerali KP! 👋
 ## AI/ML Engineer | Open-Source Enthusiast | Innovator
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:sabeerali.professional@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sabeeralikp) 
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat-square&logo=medium)](https://sabeerali.medium.com) 
-[![GitLab](https://img.shields.io/badge/GitLab-Follow-orange?style=flat-square&logo=gitlab)](https://gitlab.com/sabeeralikp) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabeerali.professional@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabeeralikp) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://sabeerali.medium.com) 
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-lightgreen?style=flat-square&logo=huggingface)](https://huggingface.co/Sabeerali)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sabeeralikp) 
 
 Welcome to my GitHub profile! I'm passionate about leveraging AI/ML technologies to solve real-world problems, with a focus on Natural Language Processing (NLP), Computer Vision, and Generative AI. Let me walk you through my journey:
 
@@ -40,26 +41,25 @@ Feel free to reach out via [email](mailto:sabeerali.professional@gmail.com) or [
 
 ---
 
-![Sabeerali KP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabeeralikp&show_icons=true&theme=radical)
-
-![Sabeerali KP's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabeeralikp&theme=react-dark)
-
----
-
 ### Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Neural Network in TensorFlow](https://sabeerali.medium.com/how-to-build-a-neural-network-in-tensorflow-123abc456def)
-- [Introduction to Generative Adversarial Networks (GANs)](https://sabeerali.medium.com/introduction-to-generative-adversarial-networks-gans-789ghi123jkl)
+- [Build Your Personal RAG Chatbot: Chat Freely with Your Data Powered by HuggingFace, LlamaIndex and Open LLMs!](https://sabeerali.medium.com/build-your-personal-rag-chatbot-chat-freely-with-your-data-powered-by-llamaindex-and-open-llms-63eb8ad1a053)
+- [Battle of the Phis: Phi-1 vs Phi-1.5 vs Phi-2](https://sabeerali.medium.com/battle-of-the-phis-phi-1-vs-phi-1-5-vs-phi-2-ba496c2e0857)
+- [https://sabeerali.medium.com/unlocking-the-power-of-open-models-harnessing-the-potential-beyond-gpt-3-5-5f585d23c0cc](https://sabeerali.medium.com/unlocking-the-power-of-open-models-harnessing-the-potential-beyond-gpt-3-5-5f585d23c0cc)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- ![Sabeerali KP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabeeralikp&show_icons=true&theme=radical) -->
