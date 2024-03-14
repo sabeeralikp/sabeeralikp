@@ -1,4 +1,4 @@
-# Hi there, I'm Sabeerali KP! 👋
+# Hi there, I'm Sabeerali! 👋
 ## AI/ML Engineer | Open-Source Enthusiast | Innovator
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabeerali.professional@gmail.com) 
