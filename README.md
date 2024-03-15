@@ -59,7 +59,7 @@ Feel free to reach out via [email](mailto:sabeerali.professional@gmail.com) or [
 <!-- BLOG-POST-LIST:START -->
 - [Build Your Personal RAG Chatbot: Chat Freely with Your Data Powered by HuggingFace, LlamaIndex and Open LLMs!](https://sabeerali.medium.com/build-your-personal-rag-chatbot-chat-freely-with-your-data-powered-by-llamaindex-and-open-llms-63eb8ad1a053)
 - [Battle of the Phis: Phi-1 vs Phi-1.5 vs Phi-2](https://sabeerali.medium.com/battle-of-the-phis-phi-1-vs-phi-1-5-vs-phi-2-ba496c2e0857)
-- [https://sabeerali.medium.com/unlocking-the-power-of-open-models-harnessing-the-potential-beyond-gpt-3-5-5f585d23c0cc](https://sabeerali.medium.com/unlocking-the-power-of-open-models-harnessing-the-potential-beyond-gpt-3-5-5f585d23c0cc)
+- [Unlocking the Power of Open Models: Harnessing the Potential Beyond GPT-3.5 and LLama2 70B at Zero Cost!](https://sabeerali.medium.com/unlocking-the-power-of-open-models-harnessing-the-potential-beyond-gpt-3-5-5f585d23c0cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ![Sabeerali KP's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabeeralikp&show_icons=true&theme=radical) -->
