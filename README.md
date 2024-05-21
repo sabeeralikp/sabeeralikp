@@ -17,11 +17,13 @@ Welcome to my GitHub profile! I'm passionate about leveraging AI/ML technologies
 
 ## Projects & Contributions
 
-- 📘 **Multifunctional Large Language Model for Malayalam**: Leading the creation of a comprehensive language model for Malayalam, empowering users with advanced NLP capabilities in their native language.
+- 🖊️ **[llama_flow](https://github.com/sabeeralikp/llama_flow)**: llama_flow is an open-source application for developing and customizing Retrieval-Augmented Generation (RAG) workflows without writing a single line of code.
 
 - 🖊️ **[Dhriti OCR](https://gitlab.com/icfoss/Malayalam-Computing/malayalam-ocr-with-integrated-htr/)**: Developed a powerful OCR tool for Malayalam, integrating state-of-the-art Handwritten Text Recognition to extract handwritten and printed texts seamlessly.
 
 - 🌐 **AI-Powered Semantic Segmentation for Covid-19 Patients**: Engineered an ML solution to aid physicians in prioritizing COVID-19 cases by accurately segmenting lung CT images, achieving remarkable results published in Springer.
+
+- 📘 **Multifunctional Large Language Model for Malayalam**: Leading the creation of a comprehensive language model for Malayalam, empowering users with advanced NLP capabilities in their native language.
 
 ## Skills & Certifications
 
