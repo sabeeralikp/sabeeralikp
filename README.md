@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging AI/ML technologies
 
 ## Projects & Contributions
 
-- 🖊️ **[llama_flow](https://github.com/sabeeralikp/llama_flow)**: llama_flow is an open-source application for developing and customizing Retrieval-Augmented Generation (RAG) workflows without writing a single line of code.
+- 🦙 **[llama_flow](https://github.com/sabeeralikp/llama_flow)**: llama_flow is an open-source application for developing and customizing Retrieval-Augmented Generation (RAG) workflows without writing a single line of code.
 
 - 🖊️ **[Dhriti OCR](https://gitlab.com/icfoss/Malayalam-Computing/malayalam-ocr-with-integrated-htr/)**: Developed a powerful OCR tool for Malayalam, integrating state-of-the-art Handwritten Text Recognition to extract handwritten and printed texts seamlessly.
 
